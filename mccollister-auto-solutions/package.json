@@ -1,0 +1,18 @@
+{
+  "name": "mccollister-auto-solutions",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "@supabase/ssr": "^0.5.2",
+    "next": "15.0.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "stripe": "^17.5.0"
+  }
+}
